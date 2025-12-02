@@ -1,5 +1,7 @@
 # 📱 iPhone-UI — Legacy Custom iOS Interface  
 
+<div align="center">
+
 ![Build](https://img.shields.io/badge/Build-Passing-8A2BE2?style=for-the-badge)
 ![iOS](https://img.shields.io/badge/iOS-Custom_UI-9340ff?style=for-the-badge&logo=apple)
 ![Unix](https://img.shields.io/badge/Unix-Tooling_Environment-9370DB?style=for-the-badge&logo=unix)
@@ -7,7 +9,9 @@
 ![Web](https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-Preview_Layer-DA70D6?style=for-the-badge&logo=javascript)
 ![License](https://img.shields.io/badge/License-MIT-9370DB?style=for-the-badge)
 
-### *A custom iPhone OS rebuild — icons, lock screen, gestures, UI sounds, and real-time overlays.*
+</div>
+
+---
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=rwh3IHnU46I">
@@ -16,6 +20,10 @@
   <br>
   <i>Click to watch the full OS-level custom UI demo.</i>
 </div>
+
+---
+
+### ***A custom iPhone OS rebuild — icons, lock screen, gestures, UI sounds, and real-time overlays.***
 
 ---
 
@@ -35,7 +43,7 @@ This project includes:
 - **Web API + live weather** integrated into the lock screen
 - Custom **gesture engine** (drag-out to close, flip-up dock — *years before Apple*)
 - Multiple **full OS-level theme builds**
-- True code-level modifications, not just HTML/CSS skins
+- True code-level modifications
 
 > Only a **small portion** of the original system is published here.  
 > Applet loaders, system patches, and core engine remain private.
